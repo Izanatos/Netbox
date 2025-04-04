@@ -1,1 +1,18 @@
-{}
+{
+    "test": {
+        "projectName": "test",
+        "description": "auth",
+        "type": "community",
+        "author": "Izanatos",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/Izanatos/Netbox",
+        "githubUri": "https://github.com/Izanatos/Netbox",
+        "license": "apache-2.0",
+        "lastUpdated": "1743769770599",
+        "tags": [
+            "authorization"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
